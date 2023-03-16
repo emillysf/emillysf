@@ -1,8 +1,8 @@
 ### Oiu, eu sou a Emilly 😁
 
 <div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=emillysf&show_icons=true&theme=radical&count_private=true&hide=issues">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillysf&layout=compact&theme=radical">
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=emillysf&show_icons=true&theme=radical&count_private=true&hide=issues">
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillysf&layout=compact&theme=radical">
 
 #
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="39cm" />
